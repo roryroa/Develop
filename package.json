@@ -1,0 +1,26 @@
+{
+  "name": "taller",
+  "version": "1.0.0",
+  "description": "Es un ejemplo de principiante",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rory",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roryroa/Develop.git"
+  },
+  "keywords": [
+    "rory"
+  ],
+  "bugs": {
+    "url": "https://github.com/roryroa/Develop/issues"
+  },
+  "homepage": "https://github.com/roryroa/Develop#readme"
+}
